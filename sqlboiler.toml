@@ -1,0 +1,6 @@
+[psql]
+dbname = "scheduler"
+host = "ep-hidden-dew-64954544.us-east-2.aws.neon.tech"
+user = "app"
+pass = "F0IXyD4YqWpb"
+sslmode = "verify-full"
